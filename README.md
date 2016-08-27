@@ -1,3 +1,3 @@
-# Guess-The-Number.
+## Guess-The-Number.
 
-Course project
+#Shiny Application and Reproducible Pitch
