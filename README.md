@@ -2,7 +2,7 @@
 
 #Shiny Application and Reproducible Pitch
 
-The code work when i run in the Rstudio but doesnt seem to be working when i run it on shiny. 
+The code work when i run in the Rstudio but doesnt seem to be working when i run it on shinyapp. 
 If anybody could help me to solve the problem would appreciate it a lot. 
 
 Please be aware that i cant present slidify to Rpubs beacuse its only publish a blank paper. 
